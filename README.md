@@ -2,7 +2,7 @@
 Usage Instructions For Round 1
 .Upload both text books to the google drive in a folder name nlp project
 .Mount the Google Drive to Google colab Notebook
-.and run the NLP_Project.py code
+.and run the NLP_Project_Round1.py code
 
 
 Mayank Raj - 19UCS151
