@@ -24,4 +24,3 @@
 
 Mayank Raj - 19UCS151
 Shaurya Sethi - 19UCS137
-Vipul Aggrawal - 19UCS042
